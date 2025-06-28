@@ -1,0 +1,15 @@
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\bin\Debug\net9.0\Tareas.exe
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\bin\Debug\net9.0\Tareas.deps.json
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\bin\Debug\net9.0\Tareas.runtimeconfig.json
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\bin\Debug\net9.0\Tareas.dll
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\bin\Debug\net9.0\Tareas.pdb
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfo.cs
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\Tareas.sourcelink.json
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\Tareas.dll
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\refint\Tareas.dll
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\Tareas.pdb
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\Tareas.genruntimeconfig.cache
+C:\Users\Noxie\Desktop\Taller-TP10\tl1-tp10-2025-SkyAce26\Tareas\obj\Debug\net9.0\ref\Tareas.dll
